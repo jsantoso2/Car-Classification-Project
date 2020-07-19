@@ -33,12 +33,12 @@ Daihatsu Ayla, Daihatsu Sigra, Daihatsu Terios, Daihatsu Xenia, Honda BR-V, Hond
 <p align="center">Confusion Matrix for Inception v3<p align="center">
 
 - Test Accuracy
-| Model | Test Accuracy | 
-|-------|-------------- |
-| ResNet50 Base | 90.85% | 
-| VGG16 Base | 22.23% | 
-| InceptionV3 Base | 88.75% |
-| MobileNetV2 Base | 32.40% | 
+  | Model | Test Accuracy | 
+  |-------|-------------- |
+  | ResNet50 Base | 90.85% | 
+  | VGG16 Base | 22.23% | 
+  | InceptionV3 Base | 88.75% |
+  | MobileNetV2 Base | 32.40% | 
 
 ### Final Notes:
 - To see more technical details, please see notes.docx for all my detailed notes
